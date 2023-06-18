@@ -15,4 +15,16 @@
     5. Applying Power law Transformation.
 <br>
     6. Negative Transformation.
-</br> </p>
+</br></p>
+<p><b>Q2. What are some popular OpenCV algorithms or techniques used for image filtering and noise reduction?(median filter/ morphological operations)</b></p>
+<p><b>Solution:</b></p>
+<p>Some popular OpenCV algorithms or techniques used for image filtering and noise reduction are</p>
+
+Using filters
+convolution filter
+median filter
+gaussina filter
+Using morphological operations
+Negative transformation
+log transformation
+power law transformation
