@@ -21,12 +21,14 @@
 <p>Some popular OpenCV algorithms or techniques used for image filtering and noise reduction are</p>
 
 <p>1.Using filters</p>
-<br>
-convolution filter
-median filter
-gaussina filter
-</br>
-Using morphological operations
-Negative transformation
-log transformation
-power law transformation
+<ul>
+    <li>convolution filter</li>
+    <li>median filter</li>
+    <li>gaussina filter</li>
+</ul>
+<p>2.Using morphological operations</p>
+<ul>
+    <li>Negative transformation</li>
+    <li>log transformation</li>
+    <li>power law transformation</li>
+</ul>
