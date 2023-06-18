@@ -37,3 +37,11 @@
 <p>Histogram Equalization is an image processing technique used to adjust the contrast of an image by altering the image histogram. it is based on Probability distribution and cumulatiove distributive functions on the pixels of the image.</p>
 <p><b>Q4. What are some techniques or filters in OpenCV for performing color enhancement and correction, such as adjusting color balance, saturation, or performing color grading operations?</b></p>
 <p><b>Solution:</b></p>
+<p>Some technique or filters in OpenCV for performing color enhancement and correction, such as adjusting color ablance, saturation, or performing color grading operations are :- </p>
+<ul>
+    <li>Median filter - It is very effective in removing salt and pepper noise from an image.</li>
+    <li>Gaussian filter - These are linear filters that reduce the noise and blur the edges effectively.</li>
+    <li>Histogram equaltization</li>
+    <li></li>
+    <li></li>
+</ul>
