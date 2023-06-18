@@ -32,3 +32,5 @@
     <li>log transformation</li>
     <li>power law transformation</li>
 </ul>
+<p><b>Q3. What are some common image enhancement techniques in OpenCV for adjusting image brightness and contrast to improve the overall appearance of an image?(ex: histogram equalizer)</b></p>
+<p><b>Solution:</b></p>
