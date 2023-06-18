@@ -35,3 +35,5 @@
 <p><b>Q3. What are some common image enhancement techniques in OpenCV for adjusting image brightness and contrast to improve the overall appearance of an image?(ex: histogram equalizer)</b></p>
 <p><b>Solution:</b></p>
 <p>Histogram Equalization is an image processing technique used to adjust the contrast of an image by altering the image histogram. it is based on Probability distribution and cumulatiove distributive functions on the pixels of the image.</p>
+<p><b>Q4. What are some techniques or filters in OpenCV for performing color enhancement and correction, such as adjusting color balance, saturation, or performing color grading operations?</b></p>
+<p><b>Solution:</b></p>
