@@ -42,6 +42,6 @@
     <li>Median filter - It is very effective in removing salt and pepper noise from an image.</li>
     <li>Gaussian filter - These are linear filters that reduce the noise and blur the edges effectively.</li>
     <li>Histogram equaltization</li>
-    <li></li>
-    <li></li>
+    <li>log transformation</li>
+    <li>power law transformation</li>
 </ul>
